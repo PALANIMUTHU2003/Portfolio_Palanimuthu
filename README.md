@@ -8,9 +8,6 @@ Anna University Inter-Zonal Runner-Up - Fencing.
 Successfully completed NCC C Certificate Examination.
 Represented in the EBSB National Level Camp.
 
-![Screenshot 2025-02-19 150034](https://github.com/user-attachments/assets/ab2922a5-f02a-445b-bcb2-7c25ed152a04)
-
-
 🛠 Skills
 Programming: Python, MySQL, JavaScript.
 Web Development: HTML/CSS, React.
@@ -45,8 +42,6 @@ Travel Site UI
 Game Site UI
 Restaurant Menu UI
 
-![Screenshot 2025-02-19 150051](https://github.com/user-attachments/assets/a69caf5f-b297-47e5-a45c-913397223385)
-
 🎤 Co-Curricular Activities
 Participated in the All India NLP Workshop to enhance my expertise in NLP and machine learning.
 Active member of the Sona Speakers Forum, honing public speaking and communication skills.
@@ -55,5 +50,9 @@ Competed in Aptithon 2024, showcasing analytical and logical reasoning abilities
 🌟 Certifications
 Google Advanced Data Analytics Professional Certificate – Coursera.
 Python – GUVI.
+![Screenshot 2025-02-19 150034](https://github.com/user-attachments/assets/ab2922a5-f02a-445b-bcb2-7c25ed152a04)
+
+![Screenshot 2025-02-19 150051](https://github.com/user-attachments/assets/a69caf5f-b297-47e5-a45c-913397223385)
+
 ![Screenshot 2025-02-19 150106](https://github.com/user-attachments/assets/a142fc26-02a8-4367-840d-42c34a28899b)
 
