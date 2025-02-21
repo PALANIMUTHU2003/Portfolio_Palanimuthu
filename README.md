@@ -1,4 +1,3 @@
-![Screenshot 2025-02-19 150004](https://github.com/user-attachments/assets/c5124bc0-f5b2-429c-ab96-3850229fea87)
 Palanimuthu T - Portfolio
 👋 About Me
 Hi! I’m Palanimuthu T, a passionate UI Developer and B.Tech graduate in Artificial Intelligence and Data Science. With expertise in Python, MySQL, HTML/CSS, JavaScript, and React, I specialize in building responsive and intuitive user interfaces while leveraging AI and data analytics to solve real-world challenges.
@@ -50,6 +49,7 @@ Competed in Aptithon 2024, showcasing analytical and logical reasoning abilities
 🌟 Certifications
 Google Advanced Data Analytics Professional Certificate – Coursera.
 Python – GUVI.
+
 ![Screenshot 2025-02-19 150034](https://github.com/user-attachments/assets/ab2922a5-f02a-445b-bcb2-7c25ed152a04)
 
 ![Screenshot 2025-02-19 150051](https://github.com/user-attachments/assets/a69caf5f-b297-47e5-a45c-913397223385)
