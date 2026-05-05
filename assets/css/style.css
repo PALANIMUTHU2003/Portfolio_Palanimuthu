@@ -37,6 +37,7 @@
 ----------------------------------------------------------------*/
 /* Google Fonts */
 @import url("https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700&amp;family=Lexend+Deca:wght@400;500;600;700;800&amp;display=swap");
+
 body,
 html {
   color: #767682;
@@ -153,6 +154,7 @@ a:hover {
   text-decoration: none;
   color: #ff6d5a;
 }
+
 
 table {
   width: 100%;
@@ -3052,9 +3054,11 @@ hr {
 }
 @media (max-width: 575px) {
   .cs_hero.cs_style_2 .cs_hero_image_box {
+    position: relative;
+    top: auto;
+    left: auto;
     width: 100%;
-    height: initial;
-    padding-bottom: 140%;
+    height: auto;
   }
 }
 .cs_hero.cs_style_2 .cs_hero_image_box .cs_imagebox_img {
@@ -5356,5 +5360,42 @@ hr {
   overflow: hidden;
 }
 
+@media (max-width: 991px) {
+  .cs_happy_client {
+    display: none;
+  }
+}
 
+.circle-link:hover {
+  transform: translateX(4px);
+  box-shadow: 0 8px 20px rgba(255, 109, 90, 0.35);
+}
+.circle-link {
+  width: 42px;
+  height: 42px;
+  background: #ff6d5a;
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+@media (max-width: 1199px) {
+  .cs_hero.cs_style_2 {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .cs_hero.cs_style_2 .cs_hero_image_box {
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin-bottom: 40px;
+  }
+}
 /*End Video Popup*//*# sourceMappingURL=style.css.map */
