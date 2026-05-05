@@ -240,6 +240,13 @@ textarea {
 .cs_font_92 {
   font-size: 92px;
 }
+
+.cs_font_69 {
+  font-size: 69px;
+}
+.cs_font_38 {
+  font-size: 38px;
+}
 @media (max-width: 1400px) {
   .cs_font_92 {
     font-size: 75px;
@@ -1549,7 +1556,7 @@ hr {
   background: linear-gradient(147deg, #342ead 0%, #ff6d5a 100%);
   background-clip: text;
   -webkit-background-clip: text;
-  text-stroke: 4px transparent;
+  text-shadow: 4px transparent;
   -webkit-text-stroke: 4px transparent;
   color: initial;
 }
@@ -2762,7 +2769,7 @@ hr {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  gap: 25px 30px;
+  gap:  25px 30px;
   padding: 80px 0;
 }
 .cs_footer.cs_style_1 .cs_footer_cta h2 {
@@ -3020,7 +3027,7 @@ hr {
 @media (max-width: 1550px) {
   .cs_hero.cs_style_2 .cs_hero_image_box {
     top: 70px;
-    left: 56%;
+    left: 62%;
     width: 500px;
     height: 690px;
   }
@@ -3157,6 +3164,9 @@ hr {
   .cs_hero.cs_style_1 .cs_hero_box_in {
     bottom: 30px;
   }
+}
+.cs_gradient_text {
+  white-space: nowrap;
 }
 /*--------------------------------------------------------------
   9. Social Btns
@@ -4247,14 +4257,15 @@ hr {
           box-shadow: 0 50px 30px -40px rgba(23, 20, 78, 0.15);
 }
 .cs_brands.cs_style_1 .cs_brand_logo_wrap {
-  height: 120px;
-  padding: 18px;
+  height: 100px;
+  padding: 60px;
 }
 @media (max-width: 1199px) {
   .cs_brands.cs_style_1 .cs_brand_logo_wrap {
-    height: 100px;
+    height: auto;
   }
 }
+
 
 .cs_brands.cs_style_1.cs_type_1 {
   grid-template-columns: repeat(5, 1fr);
@@ -5316,5 +5327,34 @@ hr {
 .cs_video_popup_align {
   overflow: hidden;
 }
+
+
+.cs_testimonial.cs_style_2 {
+  margin-left: 0;
+  overflow: hidden;
+}
+
+.cs_testimonial.cs_style_2 .cs_testimonial_in {
+  margin-left: 0;
+  overflow: hidden;
+}
+
+.cs_testimonial.cs_style_2 .cs_testimonial_info {
+  padding: 20px 25px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.cs_testimonial.cs_style_2 .cs_testimonial_text {
+  word-break: break-word;
+  overflow-wrap: break-word;
+  white-space: normal;
+}
+
+.cs_hero_image_box {
+  position: relative;
+  overflow: hidden;
+}
+
 
 /*End Video Popup*//*# sourceMappingURL=style.css.map */
